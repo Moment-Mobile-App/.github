@@ -15,7 +15,9 @@
  • Text font size: TBD
 ```
 ![image](https://github.com/Moment-Mobile-App/.github/assets/88948653/5e16c4e8-91f8-4640-958d-41eeaf8887b6)
-
+```
+ • Please only use this colour pallet across the app for consitency 
+```
 
 # 🎯 Goals:
 
