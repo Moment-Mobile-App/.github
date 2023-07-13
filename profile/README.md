@@ -50,6 +50,8 @@
 
 <img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902)" width="200" height="400" />
 
+![image](https://github.com/Moment-Mobile-App/.github/assets/88948653/9c3d868e-60a1-43c7-8045-8a27e7768663)
+
 
 
 
