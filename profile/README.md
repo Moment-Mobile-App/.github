@@ -29,5 +29,9 @@
 • Meetings held on discord
 
 ```
+# 🎨 Gallery :
 
+```
+![Simulator Screen Shot - iPhone 13 mini - 2023-07-13 at 11 46 51](https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55)
 
+```
