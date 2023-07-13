@@ -33,7 +33,8 @@
 
 <img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55)" width="200" height="400" />
 
-![Simulator Screen Shot - iPhone 13 mini - 2023-07-13 at 11 46 51](https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55=250x250)
+<img src="[https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png]([https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22))" width="200" height="400" />
+
 
 
 
