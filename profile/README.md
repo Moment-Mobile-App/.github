@@ -15,3 +15,11 @@
 • Domenico Valentino
 • Xin Lei
 ```
+# 🗒 Additional Notes:
+```
+• Promotional website is done in Angular
+• Meetings held on discord
+
+```
+
+
