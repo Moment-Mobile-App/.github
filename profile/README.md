@@ -6,7 +6,14 @@
 • https://reactnative.dev/
 • https://expo.dev/
 • https://firebase.google.com/
+
 ```
+
+# 🎯 Goals:
+  •
+  •
+  •
+
 # 📱 Contacts:
 
 ```
