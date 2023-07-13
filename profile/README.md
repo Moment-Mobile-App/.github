@@ -35,12 +35,18 @@
 
 <img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22)" width="200" height="400" />
 
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852)" width="200" height="400" />
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902)" width="200" height="400" />
+
+
+![Simulator Screen Shot - iPhone 13 mini - 2023-07-13 at 11 46 58](https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902)
 
 
 
 
 
-![Simulator Screen Shot - iPhone 13 mini - 2023-07-13 at 11 46 56](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22=250x250)
+
 
 
 
