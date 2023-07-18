@@ -31,7 +31,7 @@
 ```
 • Nathan Aruna | nathanaruna07@gmail.com | 514 638 7871
 • Aly Shariff
-• Domenico Valentino
+• Domenico Valentino | domenico2727@gmail.com | 514 977 7505
 • Xin Lei
 ```
 # 🗒 Additional Notes:
