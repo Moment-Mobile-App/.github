@@ -1,6 +1,6 @@
 
 # 🛠️ Project Reasources:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ```
  • https://reactnative.dev/
@@ -41,10 +41,10 @@
 
 ```
 # 🎨 Gallery :
-![IMG_4051](https://github.com/Moment-Mobile-App/.github/assets/88948653/6c68ed8d-3b93-476b-a22d-dcf06eab9407)
-![IMG_5375](https://github.com/Moment-Mobile-App/.github/assets/88948653/19d6d079-78fb-40c9-bbb4-270d793460ef)
-![IMG_5371](https://github.com/Moment-Mobile-App/.github/assets/88948653/a7add5ad-1d1b-42f4-a065-83a1be1855c4)
 
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/a7add5ad-1d1b-42f4-a065-83a1be1855c4" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/a7add5ad-1d1b-42f4-a065-83a1be1855c4)" width="200" height="400" />
+
+<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/19d6d079-78fb-40c9-bbb4-270d793460ef" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/19d6d079-78fb-40c9-bbb4-270d793460ef)" width="200" height="400" />
 
 
 <img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/6c68ed8d-3b93-476b-a22d-dcf06eab9407" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/6c68ed8d-3b93-476b-a22d-dcf06eab9407)" width="200" height="400" />
