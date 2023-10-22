@@ -25,10 +25,11 @@
 # 📱 Contacts:
 
 ```
-• Nathan Aruna | nathanaruna07@gmail.com | 514 638 7871
-• Aly Shariff
-• Domenico Valentino | domenico2727@gmail.com | 514 977 7505
-• Xin Lei
+• Nathan Aruna | nathan.aruna@momntsapp.com | 514 638 7871
+• Aly Shariff | aly.shariff@momntsapp.com
+• Domenico Valentino | domenico.valentino@momntsapp.com | 514 977 7505
+• Xin Lei | xin.lei@momntsapp.com |
+
 ```
 # 🗒 Additional Notes:
 ```
